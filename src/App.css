@@ -1,0 +1,15 @@
+.countStyle
+{
+    border: 2px solid red;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.teamStyle
+{
+    border: 2px solid red;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
